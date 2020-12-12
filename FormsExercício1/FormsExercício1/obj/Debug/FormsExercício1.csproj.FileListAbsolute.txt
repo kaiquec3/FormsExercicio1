@@ -1,0 +1,10 @@
+C:\Users\altas\source\repos\FormsExercício1\FormsExercício1\obj\Debug\FormsExercício1.csprojAssemblyReference.cache
+C:\Users\altas\source\repos\FormsExercício1\FormsExercício1\obj\Debug\FormsExercício1.frmRetangulo.resources
+C:\Users\altas\source\repos\FormsExercício1\FormsExercício1\obj\Debug\FormsExercício1.Properties.Resources.resources
+C:\Users\altas\source\repos\FormsExercício1\FormsExercício1\obj\Debug\FormsExercício1.csproj.GenerateResource.cache
+C:\Users\altas\source\repos\FormsExercício1\FormsExercício1\obj\Debug\FormsExercício1.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\FormsExercício1\FormsExercício1\bin\Debug\FormsExercício1.exe.config
+C:\Users\altas\source\repos\FormsExercício1\FormsExercício1\bin\Debug\FormsExercício1.exe
+C:\Users\altas\source\repos\FormsExercício1\FormsExercício1\bin\Debug\FormsExercício1.pdb
+C:\Users\altas\source\repos\FormsExercício1\FormsExercício1\obj\Debug\FormsExercício1.exe
+C:\Users\altas\source\repos\FormsExercício1\FormsExercício1\obj\Debug\FormsExercício1.pdb
